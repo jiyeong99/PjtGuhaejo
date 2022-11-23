@@ -15,6 +15,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ## 2. 팀원
 ![image](https://user-images.githubusercontent.com/108647466/203455959-b54cdcd9-1d56-4d76-9546-9995b4527cc7.png)
 강동현
@@ -64,6 +66,65 @@
 ## ERD
 https://www.figma.com/file/IM8q7Q4bM09UYLyfnOo61G/semipjt_2?node-id=303%3A348&t=0Q6WCSuYNWuqG7V2-0
 ![image](https://user-images.githubusercontent.com/108647466/203456905-26842475-6e24-4dae-89c1-7fec7def7f4b.png)
+
+## 주요 기능 설계
+### **accounts**
+
+- 회원가입
+- 로그인, 로그아웃
+  - 소셜로그인(github,google)
+- 유저정보
+  - 팔로우/팔로잉
+    - 팔로우/팔로잉 리스트 조회,
+    - 로그인한 유저만 자신의 팔로잉, 팔로워 삭제가능
+    - 비동기
+- 작성한 글, 댓글, 좋아요한 글 조회
+- post 태그 빈도 순 세개 출력
+- 경력의 개월 수 표시
+- 수정, 삭제
+- 회원탈퇴
+  - 회원탈퇴 확인
+  - 탈퇴 후 유저 게시글, 댓글 삭제
+  - 회원가입, 로그인 제한
+
+### **messages**
+
+-  유저간 쪽지 송수신
+-  유저 - 관리자 메세지
+
+### **articles** - 구직사이트
+
+-  구직 정보 조회
+  - 크롤링
+- 북마크
+  - 비동기 구현
+-  댓글
+
+### **Post** - 구직 후기 게시판
+
+구직 후기, 커뮤니티 기능
+
+-  조회
+  -  조회수, 좋아요 수, 인기순, 최신순 정렬 조회 (비동기)
+  -  태그 필터링(ex: #백엔드 팔로우)
+  -  무한스크롤
+      - [https://a-littlecoding.tistory.com/43](https://a-littlecoding.tistory.com/43)
+  -  top button footer
+      - ref: [https://okky.kr/community](https://okky.kr/community)
+-  작성
+  - 다중 이미지
+-  수정
+-  삭제
+
+### **searches** 서치 크롤링 (앱 따로)
+
+-  커뮤니티 게시글, 채용사이트 글 검색 가능
+
+### **comment**
+
+-  댓글, 대댓글 비동기 작성
+-  삭제
+-  수정
 
 ## 서비스 전체 화면
 ### 로그인
