@@ -20,6 +20,38 @@
 ![image](https://user-images.githubusercontent.com/108647466/203452631-b275cce2-f03f-4191-8f2e-e488f9d7d029.png)
 ![image](https://user-images.githubusercontent.com/108647466/203452868-5b8e9581-5eb5-4a5e-8ca2-d57894c62d84.png)
 ![image](https://user-images.githubusercontent.com/108647466/203452888-83038f6b-a492-4bc4-ad45-c69bf34559f1.png)
+## 8. 서비스 전체 화면
+
+### 로그인
+![Untitled (1)](https://user-images.githubusercontent.com/108647466/203453672-3e8bceb0-3c45-473c-91af-73f679a979c0.png)
+### 회원 가입
+![Untitled (2)](https://user-images.githubusercontent.com/108647466/203453687-f2b70ed7-0543-4a80-b095-10219654b7c2.png)
+### 사용자 페이지
+![Untitled (3)](https://user-images.githubusercontent.com/108647466/203453714-f8805223-89c0-4581-aa44-a2502d68820c.png)
+### 회원 정보 수정 페이지
+![Untitled (4)](https://user-images.githubusercontent.com/108647466/203453718-cf503f50-bc7a-4470-be8e-dcf84c610fc3.png)
+### 회원 탈퇴 페이지
+![Untitled (5)](https://user-images.githubusercontent.com/108647466/203453721-dabe6f2e-70c9-4a01-bdf9-d1783111057f.png)
+### 채용 정보 페이지
+![Untitled (6)](https://user-images.githubusercontent.com/108647466/203453727-b579f8c2-92f4-4da7-b2b5-6837f9fe248c.png)
+### 채용 정보 상세 페이지
+![Untitled (7)](https://user-images.githubusercontent.com/108647466/203453744-135dec7f-f348-4614-87c4-b9ec4a19fa65.png)
+### 채용 정보 상세 페이지 - 댓글
+![Untitled (8)](https://user-images.githubusercontent.com/108647466/203453748-08c4dcaf-18e4-41a7-9c06-68735756bb0e.png)
+### 커뮤니티 메인페이지
+![Untitled (9)](https://user-images.githubusercontent.com/108647466/203453756-8536a414-11a1-4c7d-a730-9ccc7422f785.png)
+### 커뮤니티 메인페이지 - 무한스크롤
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/108647466/203453842-9fa336c0-72e2-423e-9ace-5fbae30fdc70.gif)
+### 커뮤니티 게시글 상세 페이지
+![Untitled (10)](https://user-images.githubusercontent.com/108647466/203453765-31572e2f-3575-47de-affb-801e734c47e5.png)
+### 쪽지 기능 구현
+![Untitled (11)](https://user-images.githubusercontent.com/108647466/203453768-91cd4960-c33f-459c-be7d-01175ddc28f0.png)
+![Untitled (12)](https://user-images.githubusercontent.com/108647466/203453783-2ec0af3d-9c9e-4f27-b072-2b29722f3cf7.png)
+![Untitled (13)](https://user-images.githubusercontent.com/108647466/203453788-3ea68558-3497-49b8-a0fa-a9797e8e7cd6.png)
+### 해피봇을 이용한..뭐였지
+![Untitled (14)](https://user-images.githubusercontent.com/108647466/203453792-94151a29-215a-4a7a-befd-4d02ce67eff0.png)
+![Untitled (15)](https://user-images.githubusercontent.com/108647466/203453798-daadb107-ac79-4a6d-851a-e6c734c2f3af.png)
+
 
 ## 후기
 
