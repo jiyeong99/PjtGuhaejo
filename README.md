@@ -2,7 +2,7 @@
 ## 1. 프로젝트 소개
 ![recruit_transparent](https://user-images.githubusercontent.com/108647466/203455288-d11d6708-ddf3-4fef-91cc-f568f7e709d4.png)
 
-채용 공고 정보 제공 서비스 구해조
+채용 공고 정보 제공 서비스 및 구직 커뮤니티 <구해조>
 
 ### 프로젝트 기간
 2022.11.09 ~ 2022.11.21 2주
@@ -51,15 +51,13 @@
 ![image](https://user-images.githubusercontent.com/108647466/203455708-5329ea5f-c87c-4fbb-bf7f-dd0090fbd49a.png)
 ![image](https://user-images.githubusercontent.com/108647466/203455850-7bdabcc6-ad74-4151-a1df-fbc3b29bb6db.png)
 
-## 4. 화면 설계
+## 화면 설계
 ![image](https://user-images.githubusercontent.com/108647466/203456808-edaecb67-a92b-4b81-9b9b-53142eec3835.png)
-## 5. ERD
+## ERD
 https://www.figma.com/file/IM8q7Q4bM09UYLyfnOo61G/semipjt_2?node-id=303%3A348&t=0Q6WCSuYNWuqG7V2-0
 ![image](https://user-images.githubusercontent.com/108647466/203456905-26842475-6e24-4dae-89c1-7fec7def7f4b.png)
-## 6. 사용한 기술 스택
-## 7. 주요 기능 소개
 
-## 8. 서비스 전체 화면
+## 서비스 전체 화면
 ### 로그인
 ![Untitled (1)](https://user-images.githubusercontent.com/108647466/203453672-3e8bceb0-3c45-473c-91af-73f679a979c0.png)
 ### 회원 가입
