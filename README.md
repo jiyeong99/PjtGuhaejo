@@ -4,7 +4,7 @@
 ## 2. 프로젝트 기능
 ![image](https://user-images.githubusercontent.com/108647466/203452326-557c318d-1fcf-4152-b924-3c7070d8ce15.png)
 ## 3. 팀원소개
-![image](https://user-images.githubusercontent.com/108647466/203452363-f945377d-ccbe-447c-a8ea-2b3f3dcb29e7.png)
+![image](https://user-images.githubusercontent.com/108647466/203453158-0d34e668-eba2-4add-922d-e2bbe8fd3051.png)
 ## 4. 화면 설계
 ![image](https://user-images.githubusercontent.com/108647466/203452405-3522bac3-b652-48fd-8be6-bc18605c0e63.png)
 ## 5. ERD
