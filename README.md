@@ -48,7 +48,7 @@
 ![Untitled (11)](https://user-images.githubusercontent.com/108647466/203453768-91cd4960-c33f-459c-be7d-01175ddc28f0.png)
 ![Untitled (12)](https://user-images.githubusercontent.com/108647466/203453783-2ec0af3d-9c9e-4f27-b072-2b29722f3cf7.png)
 ![Untitled (13)](https://user-images.githubusercontent.com/108647466/203453788-3ea68558-3497-49b8-a0fa-a9797e8e7cd6.png)
-### 해피봇을 이용한..뭐였지
+### 채널톡
 ![Untitled (14)](https://user-images.githubusercontent.com/108647466/203453792-94151a29-215a-4a7a-befd-4d02ce67eff0.png)
 ![Untitled (15)](https://user-images.githubusercontent.com/108647466/203453798-daadb107-ac79-4a6d-851a-e6c734c2f3af.png)
 
