@@ -12,24 +12,32 @@
 - 백엔드
   - 정보수집(크롤링)
   - 구직 정보 페이지 기능 전반
+  
 ![image](https://user-images.githubusercontent.com/108647466/203455909-7f6c46eb-a02e-4ed6-bf3c-e28869a9ffc5.png)
+
 김명환
 - 프론트엔드
   - 커뮤니티, 로그인
 - search 기능 구현
 - 발표자
+
 ![image](https://user-images.githubusercontent.com/108647466/203455934-8b0dfe91-74dd-42cb-a816-c96c5d517aa4.png)
+
 김현정
 - 프론트엔드
   - 채용, 회원 가입, 마이페이지
 - 프론트엔드 전반
+
 ![image](https://user-images.githubusercontent.com/108647466/203456000-4dee07e0-bddc-4c17-ba6d-a35346b4b1b5.png)
+
 김지영
 - 백엔드
   - 회원관리 기능 전반
   - 북마크, 팔로우 등 비동기 구현
   - 구글 소셜로그인 구현
+  
 ![image](https://user-images.githubusercontent.com/108647466/203455944-e9beb998-ec45-4dfd-acdb-061ce33108e0.png)
+
 이진욱
 - 백엔드
   - 커뮤니티 기능 전반, 쪽지, AWS 배포
