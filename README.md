@@ -2,7 +2,7 @@
 ## 1. 프로젝트 소개
 ![recruit_transparent](https://user-images.githubusercontent.com/108647466/203455288-d11d6708-ddf3-4fef-91cc-f568f7e709d4.png)
 
-채용 공고 정보 제공 서비스 및 구직 커뮤니티 <구해조>
+채용 공고 정보 제공 서비스 및 구직자 커뮤니티 <구해조>
 
 ### 프로젝트 기간
 2022.11.09 ~ 2022.11.21 2주
