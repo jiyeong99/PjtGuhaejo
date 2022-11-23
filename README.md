@@ -126,6 +126,71 @@ https://www.figma.com/file/IM8q7Q4bM09UYLyfnOo61G/semipjt_2?node-id=303%3A348&t=
 -  삭제
 -  수정
 
+# article index view
+
+[article view](https://www.notion.so/article-view-b808c8c9882445bab993640a4b78e1e2)
+
+[북마크](https://www.notion.so/b7b8bdcc69674969a41b4ecb323769ea)
+
+[댓글 작성](https://www.notion.so/e9ff1f8276b5478d8e5a9e76fa891167)
+
+[대댓글 작성](https://www.notion.so/6d84d83fafc84229a5f7f4623ca410f9)
+
+[댓글,대댓글 삭제](https://www.notion.so/c9ff4dc9628c4a78bb9b6c4d529c6c5b)
+
+[회원가입 화면](https://www.notion.so/d8b2b8d19e164b9fbf4ffea6d74cc8bc)
+
+[로그인 화면](https://www.notion.so/6bcc549564c94c37ae9959e0ea09305c)
+
+[로그아웃](https://www.notion.so/e942ec8315f6429382ac40694f178a99)
+
+[회원 정보 화면](https://www.notion.so/a2a7b8b13e0f409082fc0d8ad7792ef5)
+
+[회원 정보 수정 화면](https://www.notion.so/96c05ee2999742c8b387cc87ec706cb1)
+
+[회원 정보 수정 화면 팔로우](https://www.notion.so/174b3fcd718846ec9fe921f1f2dd7f1a)
+
+[회원 정보 삭제 화면](https://www.notion.so/99b4bcb24e884b6680d663daf7bae52d)
+
+[회원 정보 수정 화면(비밀번호 변경)](https://www.notion.so/5d9ffd464fc54a8289744ef181162fac)
+
+[쪽지 view](https://www.notion.so/view-413a2688f5de48e0bcdbb545fb3ffa02)
+
+[쪽지 쓰기](https://www.notion.so/09a8863eeb094ff1814fb43e868e0673)
+
+[쪽지 내용 확인](https://www.notion.so/1b0d1003445d4f519c1fc565d789adf7)
+
+[쪽지 삭제](https://www.notion.so/3b8533ac52af4ceebba7ced6b0dd6856)
+
+[post index](https://www.notion.so/post-index-fcf5d6eaba9e43bfa310036376e6fe87)
+
+[검색어순위](https://www.notion.so/b55e464bf0f34a2187d9356c366dd119)
+
+[게시글 태그 필터링](https://www.notion.so/cf7b5f9b03c64706bcc3754bd6d70088)
+
+[게시글 작성](https://www.notion.so/4c537c8d5180466898326bf8788ec4ec)
+
+[게시글 view](https://www.notion.so/view-4cc7a11001384862a4620e8f88ea6f65)
+
+[게시글 수정](https://www.notion.so/f84962f20531496b85a8d06a5ccecb24)
+
+[게시글 삭제](https://www.notion.so/dad9ce8ba728486792da934aec2db782)
+
+[게시글 댓글 작성](https://www.notion.so/5966d0fcdfe5461b8771e547cb4ba6a4)
+
+[게시글 댓글 수정](https://www.notion.so/ca3a962f82db4a638f0894809ae3ebcd)
+
+[게시글 댓글 삭제](https://www.notion.so/cc2ceb41283f481880be02810f7569f3)
+
+[게시글 대댓글 작성](https://www.notion.so/acdd0ada738f4d438722e2bd7f4bbb35)
+
+[게시글 대댓글 수정](https://www.notion.so/50603f6e0a1945669756d456d09d3a6b)
+
+[게시글 대댓글 삭제](https://www.notion.so/18526b7898e240708917b8e5a85cde91)
+
+[게시글 좋아요](https://www.notion.so/c1a0c6f928914c559ca77f0e24ffa0a3)
+
+[검색](https://www.notion.so/3d97bb213546453891118fb75321c34d)
 ## 서비스 전체 화면
 ### 로그인
 ![Untitled (1)](https://user-images.githubusercontent.com/108647466/203453672-3e8bceb0-3c45-473c-91af-73f679a979c0.png)
