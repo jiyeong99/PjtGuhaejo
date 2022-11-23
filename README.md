@@ -1,27 +1,55 @@
 # Project 구ㅎ11조
 ## 1. 프로젝트 소개
-![image](https://user-images.githubusercontent.com/108647466/203452259-a5480e3b-0ab2-45df-aeb0-fa03bc3d5d2c.png)
-## 2. 프로젝트 기능
-![image](https://user-images.githubusercontent.com/108647466/203452326-557c318d-1fcf-4152-b924-3c7070d8ce15.png)
-## 3. 팀원소개
-![image](https://user-images.githubusercontent.com/108647466/203453158-0d34e668-eba2-4add-922d-e2bbe8fd3051.png)
-## 4. 화면 설계
-![image](https://user-images.githubusercontent.com/108647466/203452405-3522bac3-b652-48fd-8be6-bc18605c0e63.png)
-## 5. ERD
-![image](https://user-images.githubusercontent.com/108647466/203452444-1acfc695-4370-4cc6-9b05-f01a34bb1974.png)
-## 6. 사용한 기술 스택
-![image](https://user-images.githubusercontent.com/108647466/203452479-f68ad388-3663-4a1d-ab0f-24d45d2435d3.png)
-## 7. 주요 기능 소개
-![image](https://user-images.githubusercontent.com/108647466/203452517-b09606a2-0f77-4830-8a0c-e966c1d7d8f5.png)
-![image](https://user-images.githubusercontent.com/108647466/203452533-1556f6d1-7841-4118-bb9a-7a9c35a8b409.png)
-![image](https://user-images.githubusercontent.com/108647466/203452565-96d131b7-6612-4449-85c6-58c74b005c85.png)
-![image](https://user-images.githubusercontent.com/108647466/203452584-b7fe21ab-9860-42ab-8a7f-e93f5dd74d00.png)
-![image](https://user-images.githubusercontent.com/108647466/203452604-862876f2-a4c8-4076-a963-95f4e1324316.png)
-![image](https://user-images.githubusercontent.com/108647466/203452631-b275cce2-f03f-4191-8f2e-e488f9d7d029.png)
-![image](https://user-images.githubusercontent.com/108647466/203452868-5b8e9581-5eb5-4a5e-8ca2-d57894c62d84.png)
-![image](https://user-images.githubusercontent.com/108647466/203452888-83038f6b-a492-4bc4-ad45-c69bf34559f1.png)
-## 8. 서비스 전체 화면
+![recruit_transparent](https://user-images.githubusercontent.com/108647466/203455288-d11d6708-ddf3-4fef-91cc-f568f7e709d4.png)
+채용 공고 정보 제공 서비스 구해조
+### 프로젝트 기간
+2022.11.09 ~ 2022.11.21 2주
 
+## 2. 팀원
+![image](https://user-images.githubusercontent.com/108647466/203455959-b54cdcd9-1d56-4d76-9546-9995b4527cc7.png)
+강동현
+- 팀장
+- 백엔드
+  - 정보수집(크롤링)
+  - 구직 정보 페이지 기능 전반
+![image](https://user-images.githubusercontent.com/108647466/203455909-7f6c46eb-a02e-4ed6-bf3c-e28869a9ffc5.png)
+김명환
+- 프론트엔드
+  - 커뮤니티, 로그인
+- search 기능 구현
+- 발표자
+![image](https://user-images.githubusercontent.com/108647466/203455934-8b0dfe91-74dd-42cb-a816-c96c5d517aa4.png)
+김현정
+- 프론트엔드
+  - 채용, 회원 가입, 마이페이지
+- 프론트엔드 전반
+![image](https://user-images.githubusercontent.com/108647466/203456000-4dee07e0-bddc-4c17-ba6d-a35346b4b1b5.png)
+김지영
+- 백엔드
+  - 회원관리 기능 전반
+  - 북마크, 팔로우 등 비동기 구현
+  - 구글 소셜로그인 구현
+![image](https://user-images.githubusercontent.com/108647466/203455944-e9beb998-ec45-4dfd-acdb-061ce33108e0.png)
+이진욱
+- 백엔드
+  - 커뮤니티 기능 전반, 쪽지, AWS 배포
+  - Github 소셜로그인 구현
+
+## 3. 벤치마킹
+![image](https://user-images.githubusercontent.com/108647466/203455683-8137da0e-63bd-4da3-90ab-63183e1c4b21.png)
+![image](https://user-images.githubusercontent.com/108647466/203455698-405fd88f-5672-421b-97b8-6c60ab82c117.png)
+![image](https://user-images.githubusercontent.com/108647466/203455708-5329ea5f-c87c-4fbb-bf7f-dd0090fbd49a.png)
+![image](https://user-images.githubusercontent.com/108647466/203455850-7bdabcc6-ad74-4151-a1df-fbc3b29bb6db.png)
+
+## 4. 화면 설계
+![image](https://user-images.githubusercontent.com/108647466/203456808-edaecb67-a92b-4b81-9b9b-53142eec3835.png)
+## 5. ERD
+https://www.figma.com/file/IM8q7Q4bM09UYLyfnOo61G/semipjt_2?node-id=303%3A348&t=0Q6WCSuYNWuqG7V2-0
+![image](https://user-images.githubusercontent.com/108647466/203456905-26842475-6e24-4dae-89c1-7fec7def7f4b.png)
+## 6. 사용한 기술 스택
+## 7. 주요 기능 소개
+
+## 8. 서비스 전체 화면
 ### 로그인
 ![Untitled (1)](https://user-images.githubusercontent.com/108647466/203453672-3e8bceb0-3c45-473c-91af-73f679a979c0.png)
 ### 회원 가입
