@@ -1,6 +1,27 @@
 # Project 구ㅎ11조
+## 1. 프로젝트 소개
+![image](https://user-images.githubusercontent.com/108647466/203452259-a5480e3b-0ab2-45df-aeb0-fa03bc3d5d2c.png)
+## 2. 프로젝트 기능
+![image](https://user-images.githubusercontent.com/108647466/203452326-557c318d-1fcf-4152-b924-3c7070d8ce15.png)
+## 3. 팀원소개
+![image](https://user-images.githubusercontent.com/108647466/203452363-f945377d-ccbe-447c-a8ea-2b3f3dcb29e7.png)
+## 4. 화면 설계
+![image](https://user-images.githubusercontent.com/108647466/203452405-3522bac3-b652-48fd-8be6-bc18605c0e63.png)
+## 5. ERD
+![image](https://user-images.githubusercontent.com/108647466/203452444-1acfc695-4370-4cc6-9b05-f01a34bb1974.png)
+## 6. 사용한 기술 스택
+![image](https://user-images.githubusercontent.com/108647466/203452479-f68ad388-3663-4a1d-ab0f-24d45d2435d3.png)
+## 7. 주요 기능 소개
+![image](https://user-images.githubusercontent.com/108647466/203452517-b09606a2-0f77-4830-8a0c-e966c1d7d8f5.png)
+![image](https://user-images.githubusercontent.com/108647466/203452533-1556f6d1-7841-4118-bb9a-7a9c35a8b409.png)
+![image](https://user-images.githubusercontent.com/108647466/203452565-96d131b7-6612-4449-85c6-58c74b005c85.png)
+![image](https://user-images.githubusercontent.com/108647466/203452584-b7fe21ab-9860-42ab-8a7f-e93f5dd74d00.png)
+![image](https://user-images.githubusercontent.com/108647466/203452604-862876f2-a4c8-4076-a963-95f4e1324316.png)
+![image](https://user-images.githubusercontent.com/108647466/203452631-b275cce2-f03f-4191-8f2e-e488f9d7d029.png)
+![image](https://user-images.githubusercontent.com/108647466/203452868-5b8e9581-5eb5-4a5e-8ca2-d57894c62d84.png)
+![image](https://user-images.githubusercontent.com/108647466/203452888-83038f6b-a492-4bc4-ad45-c69bf34559f1.png)
 
-# 후기
+## 후기
 
 ### 강동현
 
